@@ -1,75 +1,27 @@
+# 📊 Superstore Power BI Dashboard
 
-# 🛍️ Superstore Sales Dashboard - Power BI
+This repository contains a Power BI dashboard PDF built from the popular Superstore dataset.
 
-This Power BI dashboard presents an interactive and insightful analysis of sales, profit, and customer trends using the **Superstore** dataset. The dashboard helps visualize business performance and uncover patterns that support strategic decision-making.
+## 🔍 Insights Uncovered
 
----
+- 🏆 **Top-Selling Category**: **Technology** leads with over 40% of total sales.
+- 💼 **Most Profitable Segment**: **Consumers** generate the highest profits.
+- 🗓️ **Yearly Trends**: Continuous growth from 2014 to 2017 in both sales and profit.
+- 🌎 **Regional Performance**: Certain cities like Austin, Atlanta, and Baltimore show strong performance.
 
-## 📊 Dashboard Overview
+## 📄 View Dashboard PDF
 
-This dashboard includes:
-
-- **Sales & Profit Overview**: Total sales and profit by region, category, and sub-category.
-- **Top Performing Products**: Identifies products with the highest sales and profit.
-- **Customer Segmentation**: Insights based on customer segments.
-- **Geographical View**: State-wise performance using a filled map.
-- **Time Series Analysis**: Trends in sales and profit over time (monthly/yearly).
-
----
-
-## 🧾 Dataset Details
-
-- **Name**: Superstore Dataset  
-- **Source**: [Kaggle - Superstore Sales Dataset](https://www.kaggle.com/datasets)  
-- **Format**: CSV  
-- **Fields**:
-  - Order Date, Ship Date, Region, State, Category, Sub-Category  
-  - Customer Segment, Sales, Quantity, Profit, Discount, etc.
-
----
-
-## 💡 Key Insights
-
-- The **West** region leads in profit, while the **East** has strong sales.
-- **Technology** category outperforms others in profitability.
-- Certain sub-categories (e.g., Tables, Bookcases) show low profit margins despite high sales.
-- Q4 shows consistent spikes in sales, especially during November–December.
-
----
+[Click here to view the full dashboard (PDF)](./Superstore.pdf)
 
 ## 🛠️ Tools Used
 
-- **Power BI Desktop** – for data modeling, transformation, and visualization.
-- **Kaggle** – to source the dataset.
+- Power BI Desktop
+- Superstore Sample Dataset
 
 ---
 
-## 📁 File Structure
+### 📚 About the Project
 
-```bash
-📦 Superstore-PowerBI
- ┣ 📄 Superstore.pbix
- ┗ 📄 README.md
-```
+This visualization tells the story of how different product categories and customer segments affect overall sales and profitability over time. The goal is to help decision-makers quickly identify trends and opportunities.
 
----
 
-## 🚀 Getting Started
-
-1. Download `Superstore.pbix` from this repo.
-2. Open it with **Power BI Desktop** (free from Microsoft Store).
-3. Explore the visuals and use filters to gain insights.
-4. You can customize it further using your own dataset.
-
----
-
-## 🧠 Author
-
-**Suhani Pancholi**  
-*Data Analyst Intern | Data Visualization Enthusiast*  
-
----
-
-## 📝 License
-
-This project is open-source and available under the **MIT License**. Feel free to use or modify it.
